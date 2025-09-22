@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-EmmanuelMusalagani/)
 
 
-[linkedin]: https://linkedin.com/in/emmanuelmusalagani
+[linkedin]: www.linkedin.com/in/emmanuel-musalagani-b22b72383
 
 <!--
 **emmanuelmusalagani/emmanuelmusalagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
