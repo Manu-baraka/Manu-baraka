@@ -8,7 +8,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-EmmanuelMusalagani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/emmanuel-musalagani-b22b72383/)
 
 
 [linkedin]: www.linkedin.com/in/emmanuel-musalagani-b22b72383
